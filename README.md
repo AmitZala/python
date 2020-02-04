@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is python repository
 
 You can use the [editor on GitHub](https://github.com/AmitZala/python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
